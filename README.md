@@ -3,6 +3,9 @@
 
 ## All API endpoints has been removed on request from Clever A/S  See issue https://github.com/fars-fede-fire/CleverAPI/issues/1
 
+** THIS CODE DOES NOTHING YET, THAT THE ORIGINAL CODE DIDN'T **
+** SO FAR IT'S JUST THE BASE CODE FOR THE v6 API **
+
 Home Assistant custom component for Clever EV charger
 
 
